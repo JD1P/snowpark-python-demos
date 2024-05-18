@@ -1,9 +1,9 @@
 {
+    "account": "",
     "user": "",
     "password": "",
-    "account": "",
-    "warehouse": "",
-    "database": "",
-    "schema": "",
-    "role": ""
+    "role": "ACCOUNTADMIN",
+    "database": "IMDB",
+    "schema": "PUBLIC",
+    "warehouse": "DEMO_WH"
  }
